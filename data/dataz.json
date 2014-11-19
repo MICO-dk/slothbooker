@@ -1,0 +1,16 @@
+[
+    {
+        "user" : "nina",
+        "date" : "2014-10-28",
+        "start_time" : "05:00",
+        "end_time" : "06:00",
+        "room" : "boulevarden"
+    },
+    {
+        "user" : "nina",
+        "date" : "2014-11-02",
+        "start_time" : "03:00",
+        "end_time" : "04:00",
+        "room" : "glassalen"
+    }
+]
